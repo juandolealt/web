@@ -14,7 +14,7 @@ import { TextVariant } from 'apps/web/src/components/base-org/typography/Text/ty
 import { useCallback, useState } from 'react';
 
 const SMART_WALLET_DOCS_LINK =
-  'https://docs.base.org/identity/smart-wallet/introduction/install-web';
+  'https://docs.base.org/identity/smart-wallet/introduction/getting-started';
 
 export function Hero() {
   const [hasCopied, setHasCopied] = useState(false);
